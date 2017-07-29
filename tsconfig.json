@@ -14,6 +14,16 @@
     "lib": [
       "es2016",
       "dom"
-    ]
+    ],
+    "angularCompilerOptions": {
+      "genDir": "../dist",
+      "skipTemplateCodegen": true,
+      "debug": true
+    },
+    "paths": {
+      "@angular/*": [
+        "../node_modules/@angular/*"
+      ]
+    }
   }
 }
