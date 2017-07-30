@@ -1,12 +1,18 @@
 # Micro App Starter Kit (Angular 4.x)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.6.
+This is an example project to demo the fabric UX/UI library (https://github.com/modernfidelity/fabric) built using Angular 4.x+ & the Angular-Cli tool.
+
+The project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.6.
 
 ## Install
 
-
+Recommend using YARN https://yarnpkg.com
 
     yarn install --pure-lockfile
+
+Otherwise
+
+    npm install
 
 ## Development server
 
