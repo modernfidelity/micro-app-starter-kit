@@ -1,8 +1,10 @@
-# Micro App Starter Kit
+# Micro App Starter Kit (Angular 4.x)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.6.
 
 ## Install
+
+
 
     yarn install --pure-lockfile
 
@@ -17,6 +19,10 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+
+Alternatively you can use :
+
+    npm run build:prod
 
 ## Running unit tests
 
